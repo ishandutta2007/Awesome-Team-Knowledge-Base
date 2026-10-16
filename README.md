@@ -1,6 +1,6 @@
 # Awesome-Team-Knowledge-Base
 
-# Top Team Knowledge Base Tools Ecosystem
+## Top Team Knowledge Base Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Collaborative Documentation, Internal Wikis & Institutional Knowledge Retention*  
