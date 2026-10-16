@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Team-Knowledge-Base/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-Knowledge-Base?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Team-Knowledge-Base/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-Knowledge-Base?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-Knowledge-Base/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Team-Knowledge-Base?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-Knowledge-Base/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Team-Knowledge-Base?style=flat-square&color=orange" alt="GitHub Issues"/></a>
   <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -29,7 +29,7 @@ Whether you require a turnkey enterprise SaaS with deep integrations or a self-h
 
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS Knowledge Base Platforms (Ranked by Valuation / Size)](#️-saas-knowledge-base-platforms-ranked-by-valuation--size)
-- [🔓 Open-Source GitHub Projects (Ranked by Star Count)](#-open-source-github-projects-ranked-by-star-count)
+- [🔓 Open-Source GitHub Projects (Ranked by Stars_Count)](#-open-source-github-projects-ranked-by-star-count)
 - [⚖️ Architecture Matrix: SaaS vs. Self-Hosted Open Source](#️-architecture-matrix-saas-vs-self-hosted-open-source)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -46,7 +46,7 @@ The global **Knowledge Management (KM) and Team Collaboration Software** market 
 In terms of structure, this sector is **moderately fragmented**:
 - **Enterprise Anchor Suites**: Massive public vendors such as Atlassian (Confluence) and Microsoft dominate high-seat enterprise deployments through bundled enterprise agreements.
 - **High-Growth Modern SaaS Challengers**: Category disruptors like Notion, Guru, and GitBook capture technical and product teams demanding block-based editing, AI-native verification, and developer Git synchronization.
-- **Thriving Open-Source Ecosystem**: Because document privacy, data sovereignty, regulatory air-gapping, and per-seat license fatigue are primary enterprise concerns, the sector is *not* a "winner-take-all" market. High-performance open-source alternatives (AppFlowy, AFFiNE, Outline, BookStack, Docmost) represent millions of self-hosted nodes and over 350,000+ combined GitHub stars.
+- **Thriving Open-Source Ecosystem**: Because document privacy, data sovereignty, regulatory air-gapping, and per-seat license fatigue are primary enterprise concerns, the sector is *not* a "winner-take-all" market. High-performance open-source alternatives (AppFlowy, AFFiNE, Outline, BookStack, Docmost) represent millions of self-hosted nodes and over 350,000+ combined GitHub_Stars.
 
 ---
 
@@ -69,110 +69,110 @@ The table below compiles leading hosted SaaS solutions for team documentation. I
 
 ---
 
-## 🔓 Open-Source GitHub Projects (Ranked by Star Count)
+## 🔓 Open-Source GitHub Projects (Ranked by Stars_Count)
 
 Self-hosting an open-source knowledge base grants teams complete data sovereignty, zero per-seat licensing penalties, custom database integration, and compliance with strict privacy regulations (GDPR, HIPAA, SOC2).
 
-Below are the premier open-source team wikis and documentation engines, **strictly ranked in descending order by GitHub community star counts**. Every badge directly links to that project's stargazers page:
+Below are the premier open-source team wikis and documentation engines, **strictly ranked in descending order by GitHub community Stars_Counts**. Every badge directly links to that project's stargazers page:
 
 ### 1. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-[![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
 - **Primary Stack**: Flutter, Rust
 - **License**: AGPL-3.0
 - **Summary**: Leading open-source Notion alternative built with Flutter and Rust for native desktop speed and mobile support. Unifies nested documents, relational databases, Kanban boards, and calendars. Features local-first offline operation with self-hosted cloud sync and fine-grained data encryption.
 
 ### 2. [AFFiNE](https://github.com/toeverything/AFFiNE)
-[![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
 - **Primary Stack**: TypeScript, Rust, React
 - **License**: AGPL-3.0
 - **Summary**: All-in-one workspace uniting structured documents, infinite visual whiteboards, and relational databases on a single unified canvas. Delivers real-time multiplayer editing, local-first privacy, and hybrid visual planning for engineering and design teams.
 
 ### 3. [SiYuan](https://github.com/siyuan-note/siyuan)
-[![GitHub stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)
 - **Primary Stack**: TypeScript, Go
 - **License**: AGPL-3.0
 - **Summary**: Privacy-first, local-first personal and team knowledge workspace featuring a block-level reference architecture, bidirectional linking, SQL querying across notes, graph analysis, and self-hosted sync with end-to-end encryption.
 
 ### 4. [Logseq](https://github.com/logseq/logseq)
-[![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
 - **Primary Stack**: ClojureScript, Electron
 - **License**: AGPL-3.0
 - **Summary**: Privacy-first, local-first outliner and knowledge graph that stores all documentation as plain Markdown or Org-mode files on your local drive. Renowned for daily journal workflows, bidirectional linking, PDF annotations, and plugin extensibility.
 
 ### 5. [Outline](https://github.com/outline/outline)
-[![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
 - **Primary Stack**: Node.js, React, PostgreSQL, Redis
 - **License**: BSL 1.1 *(converts to Apache 2.0)*
 - **Summary**: The most polished open-source Confluence and Notion alternative for high-growth tech teams. Offers a rich block-based editor with markdown shortcuts, slash commands, real-time multiplayer editing, nested document trees, and integrations with Slack, Google Workspace, and OIDC.
 
 ### 6. [Trilium Notes](https://github.com/zadam/trilium)
-[![GitHub stars](https://img.shields.io/github/stars/zadam/trilium?style=social&color=white)](https://github.com/zadam/trilium/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/zadam/trilium?style=social&color=white)](https://github.com/zadam/trilium/stargazers)
 - **Primary Stack**: JavaScript, Node.js, SQLite
 - **License**: AGPL-3.0
 - **Summary**: Hierarchical knowledge management platform designed for deep tree note organization and complex knowledge archives. Features note-level JavaScript execution, automated note attributes, full-text search, revision histories, and REST API access. *(Also see community fork [TriliumNext](https://github.com/TriliumNext/Notes)).*
 
 ### 7. [Wiki.js](https://github.com/requarks/wiki)
-[![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)
 - **Primary Stack**: Node.js, Vue.js, PostgreSQL / MySQL / SQLite
 - **License**: AGPL-3.0
 - **Summary**: Flexible, modern open-source wiki with multiple editor modes (Markdown, Visual WYSIWYG, Raw HTML, Code). Features two-way Git repository synchronization, granular RBAC permissions, modular storage backends, and enterprise authentication via LDAP, SAML 2.0, and OAuth2.
 
 ### 8. [Docmost](https://github.com/docmost/docmost)
-[![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
 - **Primary Stack**: Node.js, NestJS, React, PostgreSQL, Redis
 - **License**: AGPL-3.0
 - **Summary**: Open-source collaborative wiki and documentation platform engineered as a direct replacement for Confluence and Notion. Features real-time simultaneous multiplayer editing, space and folder hierarchies, file attachments, and user management.
 
 ### 9. [BookStack](https://github.com/BookStackApp/BookStack)
-[![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)
 - **Primary Stack**: PHP, Laravel, MySQL / MariaDB
 - **License**: MIT
 - **Summary**: Highly intuitive documentation platform organized around a real-world library hierarchy: Shelves, Books, Chapters, and Pages. Includes integrated draw.io diagrams, WYSIWYG & Markdown modes, revision audits, and self-contained authentication. Extremely lightweight (<1 GB RAM footprint).
 
 ### 10. [Foam](https://github.com/foambubble/foam)
-[![GitHub stars](https://img.shields.io/github/stars/foambubble/foam?style=social&color=white)](https://github.com/foambubble/foam/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/foambubble/foam?style=social&color=white)](https://github.com/foambubble/foam/stargazers)
 - **Primary Stack**: TypeScript, VS Code Extension Ecosystem
 - **License**: MIT
 - **Summary**: Personal and team knowledge base system inspired by Roam Research and built on Visual Studio Code and GitHub. All content resides in pure Markdown files versioned with Git, guaranteeing zero proprietary file formats or vendor lock-in.
 
 ### 11. [Gollum](https://github.com/gollum/gollum)
-[![GitHub stars](https://img.shields.io/github/stars/gollum/gollum?style=social&color=white)](https://github.com/gollum/gollum/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/gollum/gollum?style=social&color=white)](https://github.com/gollum/gollum/stargazers)
 - **Primary Stack**: Ruby, Sinatra, Git
 - **License**: MIT
 - **Summary**: Simple, Git-powered wiki engine backing GitHub's native wikis. Supports multiple markup formats (Markdown, AsciiDoc, Org-mode, MediaWiki). Engineers can edit docs locally in CLI text editors like Vim or VS Code, and changes reflect immediately on the web frontend upon `git push`.
 
 ### 12. [Anytype](https://github.com/anyproto/anytype-ts)
-[![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)
 - **Primary Stack**: TypeScript, Go, Electron
 - **License**: AGPL-3.0
 - **Summary**: Local-first, decentralized, object-oriented workspace operating over peer-to-peer (P2P) sync with end-to-end encryption (Anysync protocol). Treats documents, tasks, and data entities as interconnected graph objects.
 
 ### 13. [TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5)
-[![GitHub stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5?style=social&color=white)](https://github.com/TiddlyWiki/TiddlyWiki5/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5?style=social&color=white)](https://github.com/TiddlyWiki/TiddlyWiki5/stargazers)
 - **Primary Stack**: JavaScript, HTML5
 - **License**: BSD-3-Clause
 - **Summary**: Unique non-linear personal and team web notebook packaged in a single standalone HTML file or run via Node.js server. Features customizable tiddlers, macro scripting, and over 20 years of active open-source modular extension plugins.
 
 ### 14. [SilverBullet](https://github.com/silverbulletmd/silverbullet)
-[![GitHub stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)
 - **Primary Stack**: TypeScript, Deno / Node.js
 - **License**: MIT
 - **Summary**: Highly malleable knowledge base built on top of plain Markdown files on disk and an embedded Lua scripting engine. Allows users to write dynamic SQL-style queries directly in notes to automatically aggregate tasks, links, and tables.
 
 ### 15. [MediaWiki](https://github.com/wikimedia/mediawiki)
-[![GitHub stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=social&color=white)](https://github.com/wikimedia/mediawiki/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=social&color=white)](https://github.com/wikimedia/mediawiki/stargazers)
 - **Primary Stack**: PHP, MariaDB / MySQL / PostgreSQL
 - **License**: GPL-2.0+
 - **Summary**: Battle-tested, enterprise-scale wiki engine powering Wikipedia. Unmatched stability for multi-thousand-page corporate encyclopedias, categorized taxonomies, template transclusions, and multi-lingual localization.
 
 ### 16. [DokuWiki](https://github.com/dokuwiki/dokuwiki)
-[![GitHub stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=social&color=white)](https://github.com/dokuwiki/dokuwiki/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=social&color=white)](https://github.com/dokuwiki/dokuwiki/stargazers)
 - **Primary Stack**: PHP (Flat-File Engine)
 - **License**: GPL-2.0
 - **Summary**: Fast, zero-database flat-file wiki requiring no SQL server. Stores pages directly as plain text files, featuring built-in access control lists (ACL), full-text indexing, revision history, and over 1,000 community plugins.
 
 ### 17. [Raneto](https://github.com/ryanlelek/Raneto)
-[![GitHub stars](https://img.shields.io/github/stars/ryanlelek/Raneto?style=social&color=white)](https://github.com/ryanlelek/Raneto/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ryanlelek/Raneto?style=social&color=white)](https://github.com/ryanlelek/Raneto/stargazers)
 - **Primary Stack**: Node.js, Express, Markdown
 - **License**: MIT
 - **Summary**: Lightweight flat-file knowledge base platform for Node.js. Reads Markdown files directly from disk without database dependencies, making it optimal for internal engineering runbooks and developer cheat-sheets.
